@@ -1,0 +1,7 @@
+https://github.com/lexcasa/backend-ibec-02/blob/master/notas/nota-11-03-2022.txt
+
+https://github.com/lexcasa/frontend-ibec-02/blob/master/ejemplos/calculadora/calculadora.js
+
+https://github.com/lexcasa/backend-ibec-02/blob/master/backend01/services/algobuscanombre.service.js
+
+https://github.com/lexcasa/aed_ibec_2022_01/blob/master/practicos/03/ejercicio02.html

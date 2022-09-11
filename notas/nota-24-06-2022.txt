@@ -1,0 +1,27 @@
+Operaciones CRUD
+    -> Integrar MYSQL con el backend
+    -> services
+        -> mdb.service
+            -> Utiliza el package mysql
+            -> Funcion
+                -> Query (SQL)
+                        ----> Servicio de base de datos
+                Datos   <----
+    Tabla: Productos
+        -> Read: 
+            -> GET 
+            -> /tienda/productos
+        -> Create
+            -> POST
+            -> /tienda/productos
+            {
+                "modelo": "monster",
+                "marca": "ducati",
+                "cc": 800
+            }
+
+    EJERCICIO RAPIDO #1: Crear crud de clientes para tienda
+        -> Listar todos los clientes
+        -> Crear cliente
+        -> Editar cliente
+        -> Eliminar cliente por ID
